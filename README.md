@@ -4,9 +4,9 @@
 Para que o executável do programa funcione é necessário baixar os seguintes arquivos:
 - USUARIOS.DAT
 - ProjetoEstruturaDados.exe 
-Após baixar este 2 arquivos é necessário deixá-los na mesma pasta ou diretório para executar o programa.
+Após baixar estes 2 arquivos é necessário deixá-los na mesma pasta ou diretório para executar o programa.
 
-=> Caso deseje visualizar o código na Linguagem C é necessário baixar somente o arquivo ProjetoEstruturaDados.c
+=> Caso deseje visualizar o código na Linguagem C é necessário baixar somente o arquivo ProjetoEstruturaDados.cpp
 
 
 => Objetivo do projeto
