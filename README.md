@@ -12,6 +12,7 @@ Após baixar estes 2 arquivos é necessário deixá-los na mesma pasta ou diret�
 Para acessar o Programa é necessário entrar com os seguintes dados:
 
 Login: dimas
+
 Senha: sp3030598
 
 => Caso deseje visualizar o código na Linguagem C é necessário baixar somente o arquivo ProjetoEstruturaDados.cpp
