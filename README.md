@@ -1,9 +1,10 @@
 
-============PROJETO DA DISCIPLINA DE ESTRUTURA DE DADOS================
+========================PROJETO DA DISCIPLINA DE ESTRUTURA DE DADOS=================================
 
-Este Projeto foi criado em Linguagem C e C++ para exercitar diversos conhecimentos obtidos na 
-disciplina de Estrutura de Dados. A seguir demonstraremos quais foram as exigências do projeto.
+Este Projeto foi definido para ser criado em Linguagem C e C++ para exercitar diversos conhecimentos obtidos na 
+disciplina de Estrutura de Dados.
 
+=> Como utilizar os arquivos: 
 Para que o executável do programa funcione é necessário baixar os seguintes arquivos:
 - USUARIOS.DAT
 - ProjetoEstruturaDados.exe 
@@ -15,7 +16,7 @@ Login: dimas
 
 Senha: sp3030598
 
-=> Caso deseje visualizar o código na Linguagem C é necessário baixar somente o arquivo ProjetoEstruturaDados.cpp
+- Caso deseje visualizar o código na Linguagem C C++ é necessário baixar somente o arquivo ProjetoEstruturaDados.cpp
 
 
 => Objetivo do projeto
